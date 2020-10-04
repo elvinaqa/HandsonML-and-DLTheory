@@ -14,3 +14,18 @@ The idea that data matters more than algorithms for complex problems was further
 popularized by Peter Norvig et al. in a paper titled “The Unreasonable Effectiveness
 of Data” published in 2009.10 It should be noted, however, that small- and mediumsized datasets are still very common, and it is not always easy or cheap to get extra
 training data, so don’t abandon algorithms just yet.
+
+
+### Popular open data repositories:
+
+— UC Irvine Machine Learning Repository
+— Kaggle datasets
+— Amazon’s AWS datasets
+• Meta portals (they list open data repositories):
+— http://dataportals.org/
+— http://opendatamonitor.eu/
+— http://quandl.com/
+• Other pages listing many popular open data repositories:
+— Wikipedia’s list of Machine Learning datasets
+— Quora.com question
+— Datasets subreddit
