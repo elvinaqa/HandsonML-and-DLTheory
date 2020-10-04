@@ -29,3 +29,19 @@ training data, so don’t abandon algorithms just yet.
 — Wikipedia’s list of Machine Learning datasets
 — Quora.com question
 — Datasets subreddit
+
+## Pipeline
+A sequence of data processing components is called a data pipeline. Pipelines are very
+common in Machine Learning systems, since there is a lot of data to manipulate and
+many data transformations to apply.
+Components typically run asynchronously. Each component pulls in a large amount
+of data, processes it, and spits out the result in another data store, and then some time
+later the next component in the pipeline pulls this data and spits out its own output,
+and so on. Each component is fairly self-contained: the interface between components
+is simply the data store. This makes the system quite simple to grasp (with the help of
+a data flow graph), and different teams can focus on different components. Moreover,
+if a component breaks down, the downstream components can often continue to run
+normally (at least for a while) by just using the last output from the broken compo‐
+nent. This makes the architecture quite robust.
+On the other hand, a broken component can go unnoticed for some time if proper
+monitoring is not implemented.
