@@ -58,3 +58,15 @@ Qualitative Analytics is deciding upon your intuition and analysis of the data b
 Quantitative, however, is the type of analytics where we decide based off of the algorithms and formulas.
 Simple example would be about the clothing store owner. When he wants to decide which clothes to advertise during the year, he has 2 options to opt from. The first way is about reading newspapers, online articles to know more about the people's choice about the trends in terms of clothing. This is the Qualitative way of deciding on your business move.
 Next option is about doing investigations on the past sales, following patterns during different months and deciding which clothes to advertise to grab the attention of the customers which is the way when we do Quantitative Analsysis.
+
+# Bayesian Inference
+Sets and Events
+Interaction of Sets
+Union of Sets
+Mutually Exclusive Sets
+Dependent and independent Sets
+Conditional Probability Formula 
+The Law of Total Probability
+Additive Law
+Multiplication Law
+Bayes' Law
