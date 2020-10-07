@@ -70,3 +70,40 @@ Next option is about doing investigations on the past sales, following patterns 
 >Additive Law
 >Multiplication Law
 >Bayes' Law
+
+## Base Statistics
+
+### Population and Sample
+
+Data and Viz:
+	Categorical - freq dist tables, bar chat, pie chart, pareto diagram/ 
+	Numerical - freq dist tables, histogram,  
+		Discrete
+		Continuous
+	Cross tables, scatter plots, 
+Measurement Levels
+	Qualitative
+		Nominal - 4 seasons
+		Ordinal - worse bad normal nice great
+	Quantitative
+		Interval - no true o (temprature)(in kelvin, we can say one temp is 2 times colder than the other)	
+		Ratio - has zero
+Univariate Measures
+Mean, median, mode
+mean - central tendency measure, however, easily affected by outliers.
+median - middle number, not affected by extreme values
+mode - most often freq
+
+Skewness - Outliers
+right - mean> median	
+no skew = mean=median=mode
+left - mean < median
+
+Variability
+Variance Dispersion
+Std Deviation
+Coefficient of Variation std/mean
+
+Multivariate Measures
+Covariance x-mean * y-mean > <  0
+Correlation Covariance cov(x, y)/std(x) std(y)   -1 < x < 1
