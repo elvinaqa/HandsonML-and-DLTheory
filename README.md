@@ -60,13 +60,13 @@ Simple example would be about the clothing store owner. When he wants to decide 
 Next option is about doing investigations on the past sales, following patterns during different months and deciding which clothes to advertise to grab the attention of the customers which is the way when we do Quantitative Analsysis.
 
 # Bayesian Inference
-Sets and Events
-Interaction of Sets
-Union of Sets
-Mutually Exclusive Sets
-Dependent and independent Sets
-Conditional Probability Formula 
-The Law of Total Probability
-Additive Law
-Multiplication Law
-Bayes' Law
+>Sets and Events
+>Interaction of Sets
+>Union of Sets
+>Mutually Exclusive Sets
+>Dependent and independent Sets
+>Conditional Probability Formula 
+>The Law of Total Probability
+>Additive Law
+>Multiplication Law
+>Bayes' Law
