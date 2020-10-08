@@ -107,3 +107,10 @@ Coefficient of Variation std/mean
 Multivariate Measures
 Covariance x-mean * y-mean > <  0
 Correlation Covariance cov(x, y)/std(x) std(y)   -1 < x < 1
+
+
+## Distribution
+Normal Distribution - mean=median=mode => no skew
+	Higher diversity, high variance, more flatten out the curve
+Standard Normal Distribution - mean=0 variance=1
+Central Limit Theorem
