@@ -114,3 +114,21 @@ Normal Distribution - mean=median=mode => no skew
 	Higher diversity, high variance, more flatten out the curve
 Standard Normal Distribution - mean=0 variance=1
 Central Limit Theorem
+
+Standard Error sigma/sqrt n - if sample size increase, std error decreases
+
+### Confidence Interval 
+#### T Distribution: 
+	Practical example would be about predicting how many shoes to keep in the shop exactly
+	or, finding out which shop perform better than the other
+
+#### Hypothesis Testing
+	Null Hypo
+	Alternative
+Errors 
+	Type I - Reject a True Null Hypo
+	Type II - Accept a False Null Hypo
+
+#### P-value
+
+
