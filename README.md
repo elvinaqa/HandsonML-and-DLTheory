@@ -1,5 +1,5 @@
 # HandsonML-and-DLTheory
-Includes slighter difficulty topics covering was advanced topics than in MediumonML repo
+Includes slighter difficulty topics covering was advanced topics than in MediumonML repository
 TPU Processing 
 
 # The Unreasonable Effectiveness of Data
