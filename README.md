@@ -129,6 +129,6 @@ Errors
 	Type I - Reject a True Null Hypo
 	Type II - Accept a False Null Hypo
 
-#### P-value
+#### P-value and theory of it
 
 
