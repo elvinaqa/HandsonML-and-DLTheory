@@ -1,6 +1,6 @@
 # HandsonML-and-DLTheory
 Includes slighter difficulty topics covering was advanced topics than in MediumonML repository
-TPU Processing 
+TPU Processing, details in BatchNorm layers, Transfer Learning.
 
 # The Unreasonable Effectiveness of Data
 In a famous paper published in 2001, Microsoft researchers Michele Banko and Eric
