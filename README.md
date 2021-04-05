@@ -13,7 +13,7 @@ on corpus development.”
 The idea that data matters more than algorithms for complex problems was further
 popularized by Peter Norvig et al. in a paper titled “The Unreasonable Effectiveness
 of Data” published in 2009.10 It should be noted, however, that small- and mediumsized datasets are still very common, and it is not always easy or cheap to get extra
-training data, so don’t abandon algorithms just yet.
+training data, so don’t abandon algorithms yet.
 
 
 ### Popular open data repositories:
